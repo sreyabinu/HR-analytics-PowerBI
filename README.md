@@ -7,6 +7,9 @@ planning, performance management, retention risk, and workforce composition.
 The goal was to translate raw HR data into actionable insights that an HR 
 manager or business partner could use at a glance.
 
+## Dashboard Preview
+![HR Dashboard](dashboard-screenshot.png)
+
 ## Key Features & Insights
 - **Workforce composition** — headcount split by gender (60% male / 40% female) 
   with daily rate comparison across gender groups
